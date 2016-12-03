@@ -37,6 +37,8 @@ Android Data Binding: That <include>  [Thing](https://medium.com/google-develope
 
 Android Data Binding: [Animations](https://medium.com/google-developers/android-data-binding-animations-55f6b5956a64#.kf27d3p45)
 
+Android Data Binding: [Let’s Flip This Thing](https://medium.com/google-developers/android-data-binding-lets-flip-this-thing-dc17792d6c24#.at3v0wiok)
+
 ### Android Support Library
 Support Library for Transitions. Overview and comparison with  [Transitions-Everywhere](https://medium.com/@andkulikov/support-library-for-transitions-overview-and-comparison-c41be713cf8c#.xk6uutm3r)
 
