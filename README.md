@@ -74,3 +74,5 @@ ExoPlayer 2.x - [MediaSource composition](https://medium.com/google-exoplayer/ex
 
 ExoPlayer 2.x - [Customizing ExoPlayer’s UI components](https://medium.com/google-exoplayer/customizing-exoplayers-ui-components-728cf55ee07a#.lfv4w8dww)
 
+### Java 8
+Java 8 Language Features on [Android](https://medium.com/@muratcanbur/java-8-language-features-on-android-ee8ea414f9f0) 
