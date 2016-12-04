@@ -46,6 +46,12 @@ Exploring the Android Design Support Library: [Bottom Navigation View](https://m
 
 Exploring the new Android  [Design Support Library](https://labs.ribot.co.uk/exploring-the-new-android-design-support-library-b7cda56d2c32#.az1b4h6tl)
 
+### RxAndroid & RxJava
+RxAndroid Basics: [Part 1](https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850#.7vc2jfwnt)
+
+RxAndroid Basics: [Part 2](https://medium.com/@kurtisnusbaum/rxandroid-basics-part-2-6e877af352#.ljzk8nj33)
+
+RxJava/RxAndroid : Load from cache before api call [using Observable.concat()](https://medium.com/mobiwise-blog/load-cache-before-api-call-observable-concat-f527f267656#.bti1wy8px)
 
 ### Retrofit
 Simple way to Consuming APIs  [with Retrofit](https://medium.com/mobiwise-blog/simple-way-to-consuming-apis-with-retrofit-e8af23eeebc1#.jcctl0wnj)
