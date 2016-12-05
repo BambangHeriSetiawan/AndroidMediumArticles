@@ -46,6 +46,9 @@ Exploring the Android Design Support Library: [Bottom Navigation View](https://m
 
 Exploring the new Android  [Design Support Library](https://labs.ribot.co.uk/exploring-the-new-android-design-support-library-b7cda56d2c32#.az1b4h6tl)
 
+### Android UI
+Creating [Snapchat-like sticker on image](https://medium.com/uptech-team/how-to-create-snapchat-like-stickers-for-android-50512957c351#.5x6vudsz6)
+
 ### RxAndroid & RxJava
 RxAndroid Basics: [Part 1](https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850#.7vc2jfwnt)
 
