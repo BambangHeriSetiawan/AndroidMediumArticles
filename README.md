@@ -49,6 +49,8 @@ Exploring the new Android  [Design Support Library](https://labs.ribot.co.uk/exp
 ### Android UI
 Creating [Snapchat-like sticker on image](https://medium.com/uptech-team/how-to-create-snapchat-like-stickers-for-android-50512957c351#.5x6vudsz6)
 
+Creating [Snapchat-like textview on image](https://medium.com/uptech-team/how-to-create-beautiful-text-stickers-for-android-10eeea0cee09#.qjixdw4wl)
+
 ### RxAndroid & RxJava
 RxAndroid Basics: [Part 1](https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850#.7vc2jfwnt)
 
