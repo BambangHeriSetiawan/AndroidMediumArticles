@@ -83,5 +83,9 @@ ExoPlayer 2.x - [Customizing ExoPlayer’s UI components](https://medium.com/goo
 
 Machine Learning for Android Developers with the Mobile Vision API— Part 1 — [Face Detection](https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-1-face-detection-e7e24a3e472f#.sjtpuicmt)
 
+### Tools
+
+Android Development Useful [Tools](https://medium.freecodecamp.com/android-development-useful-tools-fd73283e82e3#.k9x4tugik)
+
 ### Java 8
 Java 8 Language Features on [Android](https://medium.com/@muratcanbur/java-8-language-features-on-android-ee8ea414f9f0) 
