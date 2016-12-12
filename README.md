@@ -65,6 +65,9 @@ How to make HTTP calls on Android  [with Retrofit 2](https://medium.com/@shelaje
 
 Quick and easy guide to Retrofit 2.0 setup or [migration with RxJava Developers](https://medium.com/@methodsignature/dagger-2-dependency-injection-for-android-developers-51d60e7397e6#.9h2pczi4y)
 
+### Android Widgets
+
+Android [Widgets](https://medium.com/@erenutku/android-widgets-ad3d166458d3#.f722h69zv)
 
 ### ExoPlayer 2
 ExoPLayer 2.x - [Why, what and when?](https://medium.com/google-exoplayer/exoplayer-2-x-why-what-and-when-74fd9cb139#.81q5nhfdy)
