@@ -58,7 +58,7 @@ RxAndroid Basics: [Part 2](https://medium.com/@kurtisnusbaum/rxandroid-basics-pa
 
 RxJava/RxAndroid : Load from cache before api call [using Observable.concat()](https://medium.com/mobiwise-blog/load-cache-before-api-call-observable-concat-f527f267656#.bti1wy8px)
 
-Multithreading with RxJava [https://android.jlelse.eu/multithreading-with-rxjava-dadddc4f7a63#.uxiicik2o]
+Multithreading with [RxJava](https://android.jlelse.eu/multithreading-with-rxjava-dadddc4f7a63#.uxiicik2o)
 
 ### Retrofit
 Simple way to Consuming APIs  [with Retrofit](https://medium.com/mobiwise-blog/simple-way-to-consuming-apis-with-retrofit-e8af23eeebc1#.jcctl0wnj)
