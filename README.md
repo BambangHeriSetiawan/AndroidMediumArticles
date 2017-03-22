@@ -17,6 +17,7 @@ Android Application [Architecture](https://labs.ribot.co.uk/android-application-
 
 Android Basic Project Architecture [for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0#.q9fhusjcz)
 
+Simplify Your Android Codebase. [Architecture](https://medium.com/@muratcanbur/simplify-your-android-codebase-94e60a3b8f16)
 
 ### Dependency Injection
 Understanding [Dagger 2](https://medium.com/@Miqubel/understanding-dagger-2-367ff1bd184f#.wnc6537az)
