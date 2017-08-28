@@ -9,6 +9,9 @@ Android N Notifications: [A Design Analysis](https://raveesh.in/android-n-notifi
 
 What’s New in Android Nougat from a [Developer’s Point of View](https://blog.aritraroy.in/whats-new-in-android-nougat-from-a-developer-s-point-of-view-ed41b77d6458#.52r0qkgpb)
 
+### Android Oero
+
+Exploring Background Execution Limits on [Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
 
 ### Android Architecture
 Android [Architecture](https://android.jlelse.eu/android-architecture-2f12e1c7d4db#.zdu9quu47)
@@ -61,12 +64,16 @@ RxJava/RxAndroid : Load from cache before api call [using Observable.concat()](h
 
 Multithreading with [RxJava](https://android.jlelse.eu/multithreading-with-rxjava-dadddc4f7a63#.uxiicik2o)
 
+SOLID Android analytics with [RxJava2](https://proandroiddev.com/solid-android-analytics-with-rxjava2-6270ce8c26f9)
+
 ### Retrofit
 Simple way to Consuming APIs  [with Retrofit](https://medium.com/mobiwise-blog/simple-way-to-consuming-apis-with-retrofit-e8af23eeebc1#.jcctl0wnj)
 
 How to make HTTP calls on Android  [with Retrofit 2](https://medium.com/@shelajev/how-to-make-http-calls-on-android-with-retrofit-2-cfc4a67c6254#.vf9jjt4ht)
 
 Quick and easy guide to Retrofit 2.0 setup or [migration with RxJava Developers](https://medium.com/@methodsignature/dagger-2-dependency-injection-for-android-developers-51d60e7397e6#.9h2pczi4y)
+
+RxJava2 and Retrofit2 Error Handling on [a single place](https://blog.mindorks.com/rxjava2-and-retrofit2-error-handling-on-a-single-place-8daf720d42d6)
 
 ### Android Widgets
 
